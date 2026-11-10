@@ -7,15 +7,16 @@
 
 ## Mission
 
-The Kopp Foundation for Diabetes (KFD) is a youth-led nonprofit dedicated to advancing equity, education, and innovation in the Type 1 Diabetes community. We connect young people to research opportunities, provide mentorship, and drive awareness through community outreach.
+The Kopp Foundation for Diabetes (KFD) is a youth-led nonprofit dedicated to advancing equity, education, and innovation in the Type 1 Diabetes community. We connect young people to research opportunities, provide mentorship, and drive awareness through community outreach. KFD is an independent 501(c)(3), guided by an eight-member board.
 
 ## Impact
 
 | Metric | Number |
 |--------|--------|
 | University Chapters | **12** |
-| Volunteers Nationwide | **1,200+** |
+| Volunteers Nationwide | **2,000+** |
 | Students Reached | **15,000+** |
+| Board | **Eight-member board** |
 
 ### Chapter Network
 
@@ -41,4 +42,4 @@ Collaborations with hospitals, researchers, and biotech companies to promote ear
 ## Contact
 
 - **Website:** [koppfoundation.org](https://www.koppfoundation.org)
-- **Founder:** Maximilian Kopp — [maxkopptech.com](https://www.maxkopptech.com)
+- **Founder:** Maximilian Kopp — [maxkopp2007@gmail.com](mailto:maxkopp2007@gmail.com) | [maxkopptech.com](https://www.maxkopptech.com) | [LinkedIn](https://www.linkedin.com/in/maxkopp)
